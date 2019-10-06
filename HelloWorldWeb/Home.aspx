@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>Hello World Web!</h1>
+            <p>A simple ASP.NET application.</p>
         </div>
     </form>
 </body>
