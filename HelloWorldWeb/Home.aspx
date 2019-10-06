@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>Hello World Web!</h1>
-            <p>A simple ASP.NET application.</p>
+            <asp:Label runat="server" Text="A simple ASP.NET application."></asp:Label>
         </div>
     </form>
 </body>
